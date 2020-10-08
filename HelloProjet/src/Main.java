@@ -4,6 +4,7 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
+		String aaa="aaa";
         System.out.println("HelloWorld!");
     }
 }
